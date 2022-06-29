@@ -1,7 +1,7 @@
 #!/bin/sh
 
-UUID=8b8213c3-e05e-4b00-a43e-be668a70daea
-WSPATH=/sgre
+UUID=8b821458c3-e05e-4b00-a43e-be2615a70daea
+WSPATH=/sgroiuy
 PORT=80
 
 
